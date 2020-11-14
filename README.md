@@ -35,6 +35,10 @@
 
 ### Blog
 <!-- BLOG-POST-LIST:START -->
+- [Convert Javascript Callbacks to Promises](https://trialbycode.com/convert-javascript-callbacks-to-promises/)
+- [Real World Example of Using Trees](https://trialbycode.com/real-world-example-of-using-trees/)
+- [Educational Youtube Channel List](https://trialbycode.com/educational-youtube-channels/)
+- [Hello world!!](https://trialbycode.com/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ![visitors](https://badges.pufler.dev/visits/joshuanoronha/joshuanoronha)
