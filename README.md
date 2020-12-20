@@ -35,6 +35,7 @@
 
 ### Blog
 <!-- BLOG-POST-LIST:START -->
+- [How to be more creative?](https://trialbycode.com/how-to-be-more-creative/)
 - [Convert Javascript Callbacks to Promises](https://trialbycode.com/convert-javascript-callbacks-to-promises/)
 - [Real World Example of Using Trees](https://trialbycode.com/real-world-example-of-using-trees/)
 - [Educational Youtube Channel List](https://trialbycode.com/educational-youtube-channels/)
