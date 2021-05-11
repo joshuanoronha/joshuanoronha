@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on creating a Serverless Backend System for 20,000 users 
 - 😎 I am looking into into **System Architecture, WASM and Svelte**
 - 🌍 I'm mostly active within the **Javascript Community**
-- ⚡️ Fun fact: I love eating spicy food 🫕
+- ⚡️ Fun fact: I love eating 🫕
 
 ### Technologies
 <p>
