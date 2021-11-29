@@ -33,15 +33,6 @@
   <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### Blog
-<!-- BLOG-POST-LIST:START -->
-- [Seeking Out New Experiences](https://trialbycode.com/seeking-out-new-experiences/)
-- [How to be more creative in life?](https://trialbycode.com/how-to-be-more-creative/)
-- [Convert Javascript Callbacks to Promises](https://trialbycode.com/convert-javascript-callbacks-to-promises/)
-- [Real World Example of Using Trees](https://trialbycode.com/real-world-example-of-using-trees/)
-- [Educational Youtube Channel List](https://trialbycode.com/educational-youtube-channels/)
-<!-- BLOG-POST-LIST:END -->
-
 ![visitors](https://badges.pufler.dev/visits/joshuanoronha/joshuanoronha)
 
 ![Joshua's Github Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuanoronha&layout=compact&langs_count=8)
