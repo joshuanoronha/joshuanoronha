@@ -9,9 +9,6 @@
   <a href="https://portfolio.trialbycode.com/" target="_blank">
     <img src="https://img.shields.io/badge/portfolio-FF4500?logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://trialbycode.com" target="_blank">
-    <img src="https://img.shields.io/badge/blog-%230095D5.svg?&style=for-the-badge&logo=wordpress&logoColor=white" />
-  </a>
 </p>
 
 - 🔭 I’m currently working on creating a Serverless Backend System for 20,000 users 
