@@ -11,7 +11,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on creating a Serverless Backend System for 20,000 users 
+- 🔭 I’m currently working on creating a variety of products to solve real world problems
 - 😎 I am looking into into **System Architecture, WASM and Svelte**
 - 🌍 I'm mostly active within the **Javascript Community**
 - ⚡️ Fun fact: I love eating 🫕
