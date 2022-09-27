@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm a Full-Stack Developer working in Mumbai, India.
+### I'm a Full-Stack Developer working out of Tempe, AZ.
  
 <p>
   <a href="https://www.linkedin.com/in/joshua-noronha" target="_blank">
