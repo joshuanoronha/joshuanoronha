@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-### I'm a Full-Stack Developer working out of Tempe, AZ.
+### I'm a Full-Stack Developer working out of San Francisco, CA.
  
 <p>
   <a href="https://www.linkedin.com/in/joshua-noronha" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://portfolio.trialbycode.com/" target="_blank">
+  <a href="https://trialbycode.com/" target="_blank">
     <img src="https://img.shields.io/badge/portfolio-FF4500?logoColor=white&style=for-the-badge" />
   </a>
 </p>
